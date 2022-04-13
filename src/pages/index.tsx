@@ -87,7 +87,6 @@ const IndexPage = () => {
             })
           }
         </table>
-
       </div>
     </main>
   )
